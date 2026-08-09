@@ -30,7 +30,7 @@ XGBoost readmission model on 98K+ patient encounters — diagnosed and corrected
 
 ### 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/aditi-manivannan/) · aditimanivannan@gmail.com · Boston, MA👋
+[LinkedIn](https://www.linkedin.com/in/aditi-manivannan/) · aditimanivannan@gmail.com · Boston, MA
 
 <!--
 **ad80702/ad80702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
